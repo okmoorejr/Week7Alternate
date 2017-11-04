@@ -1,5 +1,7 @@
 # Week7Alternate
+
 Exploit 1
+
 Unauthenticated Stored Cross-Site Scripting (XSS)
 Vulnerable in WordPress 4.2
 Fixed in WordPress 4.2.1
